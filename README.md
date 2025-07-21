@@ -17,3 +17,7 @@ This repository is intended to:
 - Time and space complexity mentioned to show how efficient each solution is  
 - File names follow the problem number for easy navigation  
 - Clean and readable code for learning and practice
+
+## 🚧 Work in Progress
+
+This repository is actively maintained and regularly updated as I continue solving more Codeforces problems. 
