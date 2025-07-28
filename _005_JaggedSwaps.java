@@ -47,7 +47,7 @@ NO
 
 import java.util.*;
 
-public class _5_JaggedSwaps {
+public class _005_JaggedSwaps {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt(); // Read number of test cases
