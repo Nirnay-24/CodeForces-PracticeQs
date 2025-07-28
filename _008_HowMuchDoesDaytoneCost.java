@@ -35,7 +35,7 @@ NO
 
 import java.util.*;
 
-public class _8_HowMuchDoesDaytonaCost {
+public class _008_HowMuchDoesDaytonaCost {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt(); // Number of test cases
