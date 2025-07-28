@@ -79,7 +79,7 @@ Output:
 
 import java.util.*;
 
-public class _7_DontTryToCount {
+public class _007_DontTryToCount {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         int t = in.nextInt(); // number of test cases
