@@ -24,7 +24,7 @@ import java.util.Arrays; // Included in java.util.* (not needed separately)
 import java.lang.*;      // Built-in package (not needed explicitly)
 import java.io.*;        // Not used here (advanced I/O classes)
 
-public class _1_HalloumiBoxes {
+public class _001_HalloumiBoxes {
     public static void main(String args[]) throws java.lang.Exception {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt(); // Number of test cases
