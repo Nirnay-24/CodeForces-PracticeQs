@@ -27,7 +27,7 @@ It is the total score from the arrows.
 
 import java.util.*;
 
-public class _10_TargetPractice {
+public class _010_TargetPractice {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); // Scanner to read input
         int t = sc.nextInt(); // Number of test cases
