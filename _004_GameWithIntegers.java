@@ -37,7 +37,7 @@ First
 
 import java.util.*;
 
-public class _4_GameWithIntegers {
+public class _004_GameWithIntegers {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); // Scanner to read input
         int t = sc.nextInt(); // Number of test cases
