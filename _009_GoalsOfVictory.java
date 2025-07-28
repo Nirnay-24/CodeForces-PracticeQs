@@ -32,7 +32,7 @@ Output:
 
 import java.util.*;
 
-public class _9_GoalsOfVictory {
+public class _009_GoalsOfVictory {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); // Scanner to read input
         int t = sc.nextInt(); // Number of test cases
