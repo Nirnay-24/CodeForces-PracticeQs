@@ -40,7 +40,7 @@ Output:
 
 import java.util.*;
 
-public class _11_AmbitiousKid {
+public class _011_AmbitiousKid {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in); // Scanner to read input
         int n = sc.nextInt(); // Read number of elements
